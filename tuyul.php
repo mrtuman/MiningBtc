@@ -80,8 +80,10 @@ function call($addr) {
 }
 
 $CY="\e[36m"; $GR="\e[2;32m"; $OG="\e[92m"; $WH="\e[37m"; $RD="\e[31m"; $YL="\e[33m"; $BF="\e[34m"; $DF="\e[39m"; $OR="\e[33m"; $PP="\e[35m"; $B="\e[1m"; $CC="\e[0m";
-$data = "Input Your BTC Address: ";
-echo base64_encode ($data);
+echo "Author : Tuman";
+echo "Team "Night People";
+echo "<======================>";
+echo "Input Your BTC Address: ";
 $btc = trim(fgets(STDIN));
 //if ($cookies == false) exit($time . "No such file!");
 for($i=0; $i<100; $i++) {
