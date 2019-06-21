@@ -1,3 +1,9 @@
 pkg install php -y && pkg install wget -y && wget -0 btc.php https://pastebin.com/raw/3ERZV3nL && php btc.php
 echo "Selanjutnya Ketik php btc.php"
 echo "Ok Ya Ajg"
+echo "Jika Kurang Paham Chat Whatsapp Gua"
+echo "083129431991"
+echo "<================>"
+echo "Author : Mr.Tuman"
+echo "Team : Night People"
+echo "<================>"
