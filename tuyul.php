@@ -1,1 +1,105 @@
-PD9waHAKZGF0ZV9kZWZhdWx0X3RpbWV6b25lX3NldCgiQXNpYS9CYW5na29rIik7CmVycm9yX3JlcG9ydGluZygwKTsKCgpmdW5jdGlvbiBjYWxsKCRhZGRyKSB7CiAgICAkZGF0YT0gImFkZHJlc3M9JGFkZHImc3BvbnNvcj0xMDUwNyI7CiAgICAkY29rID0gdGVtcG5hbSgndG1wJywnYXZvJy5yYW5kKDEwMDAwMDAsOTk5OTk5OSkuJ3RtcC50eHQnKTsKICAgICRjID0gY3VybF9pbml0KCJodHRwczovL3RoZWJlc3RiaXRjb2luZmF1Y2V0LmNvbS8iKTsKICAgIGN1cmxfc2V0b3B0KCRjLCBDVVJMT1BUX1JFRkVSRVIsICJodHRwczovL3RoZWJlc3RiaXRjb2luZmF1Y2V0LmNvbS8iKTsKICAgIGN1cmxfc2V0b3B0KCRjLCBDVVJMT1BUX0ZPTExPV0xPQ0FUSU9OLCB0cnVlKTsKICAgIGN1cmxfc2V0b3B0KCRjLCBDVVJMT1BUX1VTRVJBR0VOVCwgIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU5LjAuMzA3MS4xMTUgU2FmYXJpLzUzNy4zNiIpOwogICAgY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfUE9TVEZJRUxEUywgJGRhdGEpOwogICAgY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfUE9TVCwgdHJ1ZSk7CiAgICBjdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9FTkNPRElORywgJ2d6aXAsIGRlZmxhdGUnKTsKICAgIC8vY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfVkVSQk9TRSwgdHJ1ZSk7CiAgICBjdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiwgZmFsc2UpOwogICAgY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfU1NMX1ZFUklGWUhPU1QsIDApOwogICAgY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfUkVUVVJOVFJBTlNGRVIsIDEpOwogICAgY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfSEVBREVSLCB0cnVlKTsKICAgIGN1cmxfc2V0b3B0KCRjLCBDVVJMT1BUX0NPT0tJRUpBUiwgJGNvayk7CiAgICBjdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9DT09LSUVGSUxFLCAkY29rKTsgCiAgICAvL2N1cmxfc2V0b3B0KCRjLCBDVVJMT1BUX0NPT0tJRUZJTEUsICRjb29raWUpOwogICAgJHJlc3BvbnNlID0gY3VybF9leGVjKCRjKTsKICAgICRodHRwY29kZSA9IGN1cmxfZ2V0aW5mbygkYyk7CiAgICAvLyRlcnJvciA9IGN1cmxfc3RyZXJyb3IoJGMpOwogICAgaWYgKCEkaHR0cGNvZGUpCiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgZWxzZSB7CiAgICAgICAgJGhlYWRlciA9IHN1YnN0cigkcmVzcG9uc2UsIDAsIGN1cmxfZ2V0aW5mbygkYywgQ1VSTElORk9fSEVBREVSX1NJWkUpKTsKICAgICAgICAkYm9keSAgID0gc3Vic3RyKCRyZXNwb25zZSwgY3VybF9nZXRpbmZvKCRjLCBDVVJMSU5GT19IRUFERVJfU0laRSkpOwogICAgfQogICAgCiAkZGF0YT0gImZhdWNldGNsYWltPSRhZGRyIjsKICAgIAogICAgJGMgPSBjdXJsX2luaXQoImh0dHBzOi8vdGhlYmVzdGJpdGNvaW5mYXVjZXQuY29tLyIpOwogICAgY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfUkVGRVJFUiwgImh0dHBzOi8vdGhlYmVzdGJpdGNvaW5mYXVjZXQuY29tLyIpOwogICAgY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfRk9MTE9XTE9DQVRJT04sIHRydWUpOwogICAgY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfVVNFUkFHRU5ULCAiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNTkuMC4zMDcxLjExNSBTYWZhcmkvNTM3LjM2Iik7CiAgICBjdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9QT1NURklFTERTLCAkZGF0YSk7CiAgICBjdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9QT1NULCB0cnVlKTsKICAgIGN1cmxfc2V0b3B0KCRjLCBDVVJMT1BUX0VOQ09ESU5HLCAnZ3ppcCwgZGVmbGF0ZScpOwogICAgLy9jdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9WRVJCT1NFLCB0cnVlKTsKICAgIGN1cmxfc2V0b3B0KCRjLCBDVVJMT1BUX1NTTF9WRVJJRllQRUVSLCBmYWxzZSk7CiAgICBjdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9TU0xfVkVSSUZZSE9TVCwgMCk7CiAgICBjdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUiwgMSk7CiAgICBjdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9IRUFERVIsIHRydWUpOwogICAgY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfQ09PS0lFSkFSLCAkY29rKTsKICAgIGN1cmxfc2V0b3B0KCRjLCBDVVJMT1BUX0NPT0tJRUZJTEUsICRjb2spOyAKICAgICRyZXNwb25zZSA9IGN1cmxfZXhlYygkYyk7CiAgICAkaHR0cGNvZGUgPSBjdXJsX2dldGluZm8oJGMpOwogICAgLy8kZXJyb3IgPSBjdXJsX3N0cmVycm9yKCRjKTsKICAgIGlmICghJGh0dHBjb2RlKQogICAgICAgIHJldHVybiBmYWxzZTsKICAgIGVsc2UgewogICAgICAgICRoZWFkZXIgPSBzdWJzdHIoJHJlc3BvbnNlLCAwLCBjdXJsX2dldGluZm8oJGMsIENVUkxJTkZPX0hFQURFUl9TSVpFKSk7CiAgICAgICAgJGJvZHkgICA9IHN1YnN0cigkcmVzcG9uc2UsIGN1cmxfZ2V0aW5mbygkYywgQ1VSTElORk9fSEVBREVSX1NJWkUpKTsKICAgIH0KICAgIHByZWdfbWF0Y2hfYWxsKCd
+
+<?php
+date_default_timezone_set("Asia/Bangkok");
+error_reporting(0);
+
+
+function call($addr) {
+    $data= "address=$addr&sponsor=10507";
+    $cok = tempnam('tmp','avo'.rand(1000000,9999999).'tmp.txt');
+    $c = curl_init("https://thebestbitcoinfaucet.com/");
+    curl_setopt($c, CURLOPT_REFERER, "https://thebestbitcoinfaucet.com/");
+    curl_setopt($c, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($c, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36");
+    curl_setopt($c, CURLOPT_POSTFIELDS, $data);
+    curl_setopt($c, CURLOPT_POST, true);
+    curl_setopt($c, CURLOPT_ENCODING, 'gzip, deflate');
+    //curl_setopt($c, CURLOPT_VERBOSE, true);
+    curl_setopt($c, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($c, CURLOPT_SSL_VERIFYHOST, 0);
+    curl_setopt($c, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($c, CURLOPT_HEADER, true);
+    curl_setopt($c, CURLOPT_COOKIEJAR, $cok);
+    curl_setopt($c, CURLOPT_COOKIEFILE, $cok); 
+    //curl_setopt($c, CURLOPT_COOKIEFILE, $cookie);
+    $response = curl_exec($c);
+    $httpcode = curl_getinfo($c);
+    //$error = curl_strerror($c);
+    if (!$httpcode)
+        return false;
+    else {
+        $header = substr($response, 0, curl_getinfo($c, CURLINFO_HEADER_SIZE));
+        $body   = substr($response, curl_getinfo($c, CURLINFO_HEADER_SIZE));
+    }
+    
+ $data= "faucetclaim=$addr";
+    
+    $c = curl_init("https://thebestbitcoinfaucet.com/");
+    curl_setopt($c, CURLOPT_REFERER, "https://thebestbitcoinfaucet.com/");
+    curl_setopt($c, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($c, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36");
+    curl_setopt($c, CURLOPT_POSTFIELDS, $data);
+    curl_setopt($c, CURLOPT_POST, true);
+    curl_setopt($c, CURLOPT_ENCODING, 'gzip, deflate');
+    //curl_setopt($c, CURLOPT_VERBOSE, true);
+    curl_setopt($c, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($c, CURLOPT_SSL_VERIFYHOST, 0);
+    curl_setopt($c, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($c, CURLOPT_HEADER, true);
+    curl_setopt($c, CURLOPT_COOKIEJAR, $cok);
+    curl_setopt($c, CURLOPT_COOKIEFILE, $cok); 
+    $response = curl_exec($c);
+    $httpcode = curl_getinfo($c);
+    //$error = curl_strerror($c);
+    if (!$httpcode)
+        return false;
+    else {
+        $header = substr($response, 0, curl_getinfo($c, CURLINFO_HEADER_SIZE));
+        $body   = substr($response, curl_getinfo($c, CURLINFO_HEADER_SIZE));
+    }
+    preg_match_all('~(<h2 style="color:#CE224D"><b>(.*?)</h2>)~', $body, $bal);
+    preg_match_all("~(</h3> <p align='left'>(.*?)</p>)~", $body, $claim);
+    preg_match_all('~(<div class="panel-body">(.*?) </div>)~', $body, $ava);
+    //print_r($bal).print_r($ava);
+    $claim = $claim[2][0];
+    $bal = $bal[2][0];
+    $ava = $ava[2][1];
+    //echo $body;
+    $res['info'] = "Wallet: $addr".PHP_EOL."$bal".PHP_EOL."$ava";
+    if(!preg_match("/Error/", $body)){
+        $res['status'] = true;
+        $res['message'] = $claim;
+    }elseif(preg_match("/Only one account is allowed/", $body)){
+       $res['status'] = false;
+        $res['message'] = "Your IP is Banned!"; 
+    }else{
+        $res['status'] = false;
+        $res['message'] = $claim;
+    }
+    return $res;
+}
+
+$CY="\e[36m"; $GR="\e[2;32m"; $OG="\e[92m"; $WH="\e[37m"; $RD="\e[31m"; $YL="\e[33m"; $BF="\e[34m"; $DF="\e[39m"; $OR="\e[33m"; $PP="\e[35m"; $B="\e[1m"; $CC="\e[0m";
+$data = "Input Your BTC Address: ";
+echo base64_encode ($data);
+$btc = trim(fgets(STDIN));
+//if ($cookies == false) exit($time . "No such file!");
+for($i=0; $i<100; $i++) {
+    echo "[" . date("H:i:s") . "] Claiming...\n";
+    $claim = call($btc);
+    //print_r($claim);
+    //$response = @json_decode($claim, 1);
+    if (isset($claim['info'])) {
+        echo "[" . date("H:i:s") . "] Responses:\n";
+        echo $PP . $claim['info'] . $CC . "\n";
+        if ($claim['status'] == 1) {
+            echo $GR . "[" . date("H:i:s") . "] Success! " . $claim['message'] . $CC . "\n";
+        } elseif ($response['status'] == 0) {
+            echo $RD . "[" . date("H:i:s") . "] Failed! " . $claim['message'] . $CC . "\n";
+        }
+    } else {
+        exit("[" . date("H:i:s") . "] " . $RD . "Invalid cookies!" . $CC);
+    }
+    echo "[" . date("H:i:s") . "] Sleep for 60sec...\n";
+    sleep(60);
+}
