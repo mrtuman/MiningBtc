@@ -1,5 +1,5 @@
-pkg install php -y && pkg install wget -y && wget -0 btc.php https://pastebin.com/raw/3ERZV3nL && php btc.php
-echo "Selanjutnya Ketik php btc.php"
+pkg install php -y && pkg install wget -y && wget -0 tuyul.php https://pastebin.com/raw/3ERZV3nL
+echo "Selanjutnya Ketik php tuyul.php"
 echo "Ok Ya Ajg"
 echo "Jika Kurang Paham Chat Whatsapp Gua"
 echo "083129431991"
