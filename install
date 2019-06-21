@@ -1,4 +1,4 @@
-pkg install php -y && pkg install wget -y && wget -O mining.php https://pastebin.com/raw/3ERZV3nL
+pkg install php -y && pkg install wget -y && wget -O mining.php https://pastebin.com/raw/QVxZzsyq
 echo "Selanjutnya Ketik php mining.php"
 echo "Ok Ya Ajg"
 echo "Jika Kurang Paham Chat Whatsapp Gua"
